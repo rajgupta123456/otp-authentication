@@ -10,7 +10,7 @@ function sendOTP() {
 
     // Use your email sending logic here
     Email.send({
-        SecureToken: "56706867-eabb-4f98-8373-bb962fe3fc8f",
+        SecureToken: "ccd98820-e6bf-4412-b7f7-e445e7e0694d",
         To: email,  // Remove .value here
         From: "iamrajgupta6@gmail.com",
         Subject: "OTP for Login",
